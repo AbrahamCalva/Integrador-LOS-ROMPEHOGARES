@@ -3,21 +3,21 @@ Este repositorio fue creado con la finalidad de realizar nuestro proyecto Integr
 
 # Integrantes
 
-## Abraham Calva
+## Calva Abraham
 
 [Github de Abraham](https://github.com/AbrahamCalva)
 
-## Jean Paul Vidal Ceron
+## Vidal Ceron Jean Paul 
 
 [Github de Jean Paul](https://github.com/JeanPaulVidal)
 
-## Andrea Jacob Salas
+## Jacob Salas Andrea 
 [Github de Andrea](https://github.com/AndyJacobSalas)
 
-## Roberto Barrera Rojo 
+## Barrera Rojo Roberto  
 
 [Github de Roberto](https://github.com/RobertoBarreraa)
 
-## Erick Martinez Escamilla
+## Martinez Escamilla Erick 
 
 [GitHub de Erick](https://github.com/ErickEsca)
