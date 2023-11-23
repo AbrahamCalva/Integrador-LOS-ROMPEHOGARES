@@ -53,7 +53,7 @@ public class decimalBinario {
             JOptionPane.showMessageDialog(null, "El número binario equivalente es: " + numeroBinario);
 
         } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "El número ingresado tiene punto decimal y no puede ser evaluado.");
+             JOptionPane.showMessageDialog(null, "El número ingresado tiene punto decimal y no puede ser evaluado.");
         }
     }
 
