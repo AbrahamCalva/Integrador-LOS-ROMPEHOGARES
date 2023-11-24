@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class formulaCuadratica {
+public class formulaCuadratic {
 
     public static void main(String[] args) {
      String coordenadasPunto1 = JOptionPane.showInputDialog("Ingrese las coordenadas del punto1(X y Y) separadas por una coma(,): ");
