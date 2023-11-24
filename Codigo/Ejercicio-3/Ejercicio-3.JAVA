@@ -18,13 +18,15 @@ public class Circunferencia {
         System.out.println("Ingrese la coordenada y2 del punto T");
         double y2= entrada.nextDouble();
         
-        //proceso
+        //Proceso
         double distancia = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
         
         if (distancia <= r){
+            //Salida
             System.out.println("El punto T está dentro del área de la circunferencia.");
            
         } else {
+            //Salida
             System.out.println("El punto T está fuera del área de la circunferencia.");
             
     }
